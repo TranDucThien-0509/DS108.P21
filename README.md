@@ -25,3 +25,4 @@ Hệ thống sử dụng đường ống (pipeline) kết hợp nhiều phương
 * **Trích xuất hình ảnh:** Ứng dụng mạng nơ-ron tích chập (CNN) để trích xuất đặc trưng hình ảnh phòng (phong cách, không gian, nội thất) nhằm cải thiện độ hấp dẫn và cá nhân hóa của hệ thống.
 
 ## Demo Web
+[**Xem Video Demo trên Google Drive**](https://drive.google.com/file/d/1db1NLUe9Xz3gTyBSIZkgKA4wFUt0Rjkf/view?usp=drive_link)
